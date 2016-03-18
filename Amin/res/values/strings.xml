@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">鼎力信息化检测系统</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="setting">设置</string>
+    <string name="title">信息监控系统</string>
+    <string name="title_activity_set">SetActivity</string>
+    <string name="board_electric">电流信号板卡地址</string>
+    <string name="board_air">气体信号板卡地址</string>
+    <string name="confirm">确定</string>
+    <string name="vol1">电压1:</string>
+    <string name="vol2">电压2:</string>
+    <string name="elec1">电流1:</string>
+    <string name="elec2">电流2:</string>
+    <string name="meter1">智能电表1</string>
+    <string name="meter2">智能电表2</string>
+    <string name="air1">气体流量1</string>
+       <string name="air2">气体流量2</string>
+       <string name="speed">送丝速度</string>
+        <string name="len">送丝总长度</string>
+        <string name="songsi">送丝量</string>
+    <string name="sanxiang">三相电流与电压情况</string>
+
+</resources>
