@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">			#FFFFFFFF</color>
+    <!-- 白色 -->
+    <color name="black">			#000000</color>
+    <!-- 黑色 -->
+    <color name="red">				#FF0000</color>
+    <!-- 红色 -->
+    <color name="red2">             #EE4000</color>
+    <!-- 红色2 -->
+    <color name="yellow">			#FFFF00</color>
+    <!-- 黄色 -->
+    <color name="orange">			#FFA500</color>
+    <!-- 橘黄色 -->
+    <color name="blue">				#005bac</color>
+    <!-- 蓝色 -->
+    <color name="green">			#008000</color>
+    <!-- 绿色 -->
+    <color name="lawngreen">		#7CFC00</color>
+    <!-- 青 -->
+    <color name="lavenderblush">	#FFF0F5</color>
+    <!-- 淡紫色 -->
+    <color name="ivory">			#FFFFF0</color>
+    <!-- 象牙白 -->
+    <color name="lightyellow">		#FFFFE0</color>
+    <!-- 亮白色 -->
+    <color name="snow">				#FFFAFA</color>
+    <!-- 雪白色 -->
+    <color name="floralwhilte">		#FFFAF0</color>
+    <!-- 花白色 -->
+    <color name="lemonchiffon">		#FFFACD</color>
+    <!-- 柠檬酬色 -->
+    <color name="lightblue">		#99CCFF</color>
+    <!-- 淡蓝色 -->
+    <color name="linecharcolor">	#33b5e5</color>
+    <color name="transparent">		#01000000</color>
+    <!-- 透明 -->
+    <color name="pink">				#FF99CC</color>
+    <!-- 粉红色 -->
+    <color name="BurlyWood">		#DEB887</color>
+    <!-- 棕色 -->
+    <color name="DarkGoldenRod">	#B8860B</color>
+    <!-- 暗金黄色 -->
+    <color name="Semi_transparent">	#7f000000</color>
+    <!-- 半透明 -->
+    <color name="Semi_transparent_blue">	#e02089c0</color>
+    <!-- 蓝色半透明 -->
+    <color name="Semi_transparent_27">#e0276479</color>
+    <color name="Semi_transparent_click">#502391c6</color>
+    <color name="musicInfo">		#FF99CC</color>
+    <!-- 主界面左边背景颜色 -->
+    <color name="Lf_MainBackcolor">#f4f9ff</color>
+    <color name="titlechartcolor">#d0e0ef</color>
+    <color name="linecolor">#d0e0ef</color>
+
+</resources>

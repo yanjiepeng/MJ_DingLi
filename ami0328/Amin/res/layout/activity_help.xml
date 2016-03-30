@@ -1,0 +1,21 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        style="@style/textView_style"
+        android:text="说明" />
+    
+    <TextView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:text="1.本系统主要用于监测焊机系统的工作状态，直流电压电流，三相电压电流，以及气体和送丝情况,连接正常则设备号为黄色，否则为红色；\n2.一行有两个状态值的：前面为当前即时数据，后面为一段时间的平均数据；\n3.设置为设置板卡的ip地址和设置机器的编号，请勿随意修改；\n4.系统数据在/Data/data/zk.amin.com/下,系统日志位于/sdcard/crash2文件夹，请不要随意删除其中的文件；\n
+        			"/>
+
+</LinearLayout>
